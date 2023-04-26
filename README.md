@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">A college student and developer from New Jersey</h3>
 
-- 🔭 I’m currently working on **Colby Hackers projects and hackathons**
+- 🔭 I’m currently working on **a paper analyzing the ethicality of AI chatbot therapy**
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **JavaScript, C, Numpy, and Pandas**
 
 - 👯 I’m looking to collaborate on **accessible technology**
 
