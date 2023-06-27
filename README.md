@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a paper analyzing the ethicality of AI chatbot therapy**
 
-- 🌱 I’m currently learning **JavaScript, C, Numpy, and Pandas**
+- 🌱 I’m currently learning **MERN Stack & Linux**
 
-- 👯 I’m looking to collaborate on **accessible technology**
+- 👯 I’m looking to collaborate on **accessible and open source technology**
 
 - 📫 How to reach me **lcassidy042@gmail.com**
 
