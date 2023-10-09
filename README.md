@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">A college student and developer from New Jersey</h3>
 
-- 🔭 I’m currently working on **a webapp dedicated to helping LGBTQIA+ people find housing**
+- 🔭 I’m currently working on **Sillybus, a webapp to create Google Classroom courses and assignments from a syllabus**
 
-- 🌱 I’m currently learning **MERN Stack & Linux**
+- 🌱 I’m currently learning **SQL & C++**
 
 - 👯 I’m looking to collaborate on **accessible and open source technology**
 
