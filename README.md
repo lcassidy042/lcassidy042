@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">A college student and developer from New Jersey</h3>
 
-- 🔭 I’m currently working on **summer research on Spot, a robot from Boston Dynamics**
+- 🔭 I’m currently working on **research on use of Spot, a robot from Boston Dynamics, in navigating indoor spaces**
 
 - 🌱 I’m currently learning **Networking and containerization stuff, iOS development**
 
