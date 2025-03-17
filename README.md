@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **accessible and open source technology**
 
-- 📫 How to reach me **lcassidy042@gmail.com**
+- 📫 How to reach me **liam.cassidy.ug@dartmouth.edu**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1_sA4Ul9Mg4I0yQ_TkjUsW42e62oFnMBzvQmCkeN6eu0/edit?usp=sharing](https://docs.google.com/document/d/1_sA4Ul9Mg4I0yQ_TkjUsW42e62oFnMBzvQmCkeN6eu0/edit?usp=sharing)
 
