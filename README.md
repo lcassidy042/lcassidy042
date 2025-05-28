@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 📝 My personal website can be found here [https://liamcassidy.me/](https://liamcassidy.me/)
 
