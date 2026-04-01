@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">A college student and developer from New Jersey</h3>
 
-- 📝 My personal website can be found here [https://liamcassidy.me/](https://liamcassidy.me/)
+- 📝 My personal website can be found here [https://liamcassidy.dev/](https://liamcassidy.dev/)
 
-- 📫 How to reach me **liam.cassidy.ug@dartmouth.edu**
+- 📫 How to reach me **liam.p.cassidy.th@dartmouth.edu**
 
-- 📄 Know about my experiences [https://liamcassidy.me/pdf/Liam_Cassidy_Resume.pdf](https://liamcassidy.me/pdf/Liam_Cassidy_Resume.pdf)
+- 📄 Know about my experiences [https://liamcassidy.dev/liam_cassidy_resume.pdf](https://liamcassidy.dev/liam_cassidy_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
