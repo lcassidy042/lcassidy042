@@ -3,7 +3,7 @@
 
 - 📝 My personal website can be found here [https://liamcassidy.dev/](https://liamcassidy.dev/)
 
-- 📫 How to reach me **liam.p.cassidy.th@dartmouth.edu**
+- 📫 How to reach me **liam@liamcassidy.dev**
 
 - 📄 Know about my experiences [https://liamcassidy.dev/liam_cassidy_resume.pdf](https://liamcassidy.dev/liam_cassidy_resume.pdf)
 
